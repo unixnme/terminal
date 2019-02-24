@@ -7,4 +7,5 @@ binder + c: new window <br>
 binder + {0,1,...}: select window #0,1,... <br>
 binder + w: select window from the list <br>
 binder + %: new vertical window <br>
+binder + [: enable scroll (q to quit) <br>
 
