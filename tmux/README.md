@@ -1,10 +1,10 @@
-tmux new -s SESSIONNAME
-tmux ls
-tmux attach -t SESSIONNAME
+tmux new -s SESSIONNAME <br>
+tmux ls <br>
+tmux attach -t SESSIONNAME <p>
 
-binder: ctrl + b
-binder + c: new window
-binder + {0,1,...}: select window #0,1,...
-binder + w: select window from the list
-binder + %: new vertical window
+binder: ctrl + b <br>
+binder + c: new window <br>
+binder + {0,1,...}: select window #0,1,... <br>
+binder + w: select window from the list <br>
+binder + %: new vertical window <br>
 
